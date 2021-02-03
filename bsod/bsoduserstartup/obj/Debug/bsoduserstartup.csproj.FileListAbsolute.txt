@@ -1,0 +1,7 @@
+C:\Users\hdoncieu\source\repos\bsod\bsoduserstartup\bin\Debug\bsoduserstartup.exe.config
+C:\Users\hdoncieu\source\repos\bsod\bsoduserstartup\bin\Debug\bsoduserstartup.exe
+C:\Users\hdoncieu\source\repos\bsod\bsoduserstartup\bin\Debug\bsoduserstartup.pdb
+C:\Users\hdoncieu\source\repos\bsod\bsoduserstartup\obj\Debug\bsoduserstartup.csprojAssemblyReference.cache
+C:\Users\hdoncieu\source\repos\bsod\bsoduserstartup\obj\Debug\bsoduserstartup.csproj.CoreCompileInputs.cache
+C:\Users\hdoncieu\source\repos\bsod\bsoduserstartup\obj\Debug\bsoduserstartup.exe
+C:\Users\hdoncieu\source\repos\bsod\bsoduserstartup\obj\Debug\bsoduserstartup.pdb

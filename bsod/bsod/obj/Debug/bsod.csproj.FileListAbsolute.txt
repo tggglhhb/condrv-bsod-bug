@@ -1,0 +1,7 @@
+C:\Users\hdoncieu\source\repos\bsod\bsod\bin\Debug\bsod.exe.config
+C:\Users\hdoncieu\source\repos\bsod\bsod\bin\Debug\bsod.exe
+C:\Users\hdoncieu\source\repos\bsod\bsod\bin\Debug\bsod.pdb
+C:\Users\hdoncieu\source\repos\bsod\bsod\obj\Debug\bsod.csprojAssemblyReference.cache
+C:\Users\hdoncieu\source\repos\bsod\bsod\obj\Debug\bsod.csproj.CoreCompileInputs.cache
+C:\Users\hdoncieu\source\repos\bsod\bsod\obj\Debug\bsod.exe
+C:\Users\hdoncieu\source\repos\bsod\bsod\obj\Debug\bsod.pdb
