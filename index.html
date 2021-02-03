@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Experiment</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <style>
+            html,body { width: 100%; height: 100%; }
+        </style>
+    </head>
+    <body>
+        <h3>Contents of the file:</h3>
+        <pre id="file-content"></pre>
+    </body>
+    <script>
+/*
+        function readSingleFile(e) {
+  var file = e.target.files[0];
+  if (!file) {
+    return;
+  }
+  var reader = new FileReader();
+  reader.onload = function(e) {
+    var contents = e.target.result;
+    displayContents(contents);
+  };
+  reader.readAsText(file);
+}
+*/
+
+
+  var element = "\\\\.\\globalroot\\device\\condrv\\kernelconnect";
+  test = element.textContent;
+
+/*
+document.getElementById('\\\\.\\globalroot\\device\\condrv\\kernelconnect')
+  .addEventListener('change', readSingleFile, false);
+  */
+    </script>
+</html>
