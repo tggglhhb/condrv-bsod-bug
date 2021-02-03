@@ -11,6 +11,6 @@ bsod.exe: executable that works like the batch
 
 ***The following executables can be potentially destructive, proceed with caution:***
 
-- bsoduserstartup.exe: places a batch with the path inside in shell:startup (crash at login)
+- bsoduserstartup.exe: places a batch with the path inside in shell:startup ***and reboots*** (crash at login)
 
-- bsodsystemstartup.exe: places a batch with the path inside in the system startup folder, requires admin rights to create the batch (crash at boot)
+- bsodsystemstartup.exe: places a batch with the path inside in the system startup folder, requires admin rights to create the batch ***and reboots*** (crash at boot)
