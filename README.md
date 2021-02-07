@@ -13,4 +13,4 @@ bsod.exe: executable that works like the batch
 
 - bsoduserstartup.exe: places a batch with the path inside in shell:startup ***and reboots*** (crash at login)
 
-- bsodsystemstartup.exe: places a batch with the path inside in the system startup folder, requires admin rights to create the batch ***and reboots*** (crash at boot)
+- bsodsystemstartup.exe: places itself in the syswow64 folder, adds the copied executable as a kernel service that boots at startup ***then reboots*** (crash at boot)
