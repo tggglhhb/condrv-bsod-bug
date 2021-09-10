@@ -1,3 +1,5 @@
+# Microsoft fixed this a while ago
+
 # condrv-bsod
 
 Uses the condrv bug to crash Windows
